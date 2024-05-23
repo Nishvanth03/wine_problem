@@ -8,3 +8,4 @@ tox
 wheel
 scikit-learn 
 flake8
+flask

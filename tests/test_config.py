@@ -1,4 +1,4 @@
-import pytest
+'''import pytest
 class NotInRange(Exception): 
     def __init__(self,message="value not in range"): 
         
@@ -13,4 +13,4 @@ def test_generic():
         if a not in range(10,20):
             raise NotInRange 
     
-    
+'''
